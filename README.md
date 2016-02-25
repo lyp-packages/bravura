@@ -9,7 +9,7 @@ The code here is based on code by [Nathan Ho](https://github.com/snappizz) in th
 Install using [lyp](https://github.com/noteflakes/lyp):
 
 ```bash
-lyp install bravura
+$ lyp install bravura
 ```
 
 ## Usage
