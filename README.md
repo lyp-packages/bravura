@@ -1,4 +1,4 @@
-# lyp-bravura - Bravura SMuFL font package for lilypond
+# bravura: Bravura SMuFL font package for lilypond
 
 This package provides the Bravura open-source font for lilypond.
 
