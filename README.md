@@ -25,7 +25,7 @@ $ lyp install bravura
 
 ```
 
-For more details see the included [example](/noteflakes/lyp-bravura/blob/master/test.ly).
+For more details see the included [example](https://github.com/noteflakes/lyp-bravura/blob/master/test.ly).
 
 ## Compatibility with Lilypond versions
 
