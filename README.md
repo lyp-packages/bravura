@@ -4,6 +4,8 @@ This package provides the Bravura open-source font for lilypond.
 
 The code here is based on code by [Nathan Ho](https://github.com/snappizz) in the [openLilyLib snippets repository](https://github.com/openlilylib/snippets/tree/master/custom-music-fonts/smufl).
 
+Bravura is a [SMuFL](http://www.smufl.org/) font.
+
 ## Installation
 
 Install using [lyp](https://github.com/noteflakes/lyp):
